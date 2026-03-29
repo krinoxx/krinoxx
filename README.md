@@ -20,7 +20,7 @@ Especialización en seguridad ofensiva y pentesting.
 |----------|-------------|
 | [ad-lab-setup](./ad-lab-setup) | Lab de Active Directory con ataques documentados |
 | [recon-automator](./recon-automator) | Script Python de reconocimiento de red |
-| [thm-writeups](./thm-writeups) | Writeups de TryHackMe con metodología detallada |
+| [dockerlabs-writeups](./dockerlabs-writeups) | Writeups de DockerLabs con metodología detallada |
 
 ## 📬 Contacto
 LinkedIn · TryHackMe · marioperezpedrosa2007@gmail.com
