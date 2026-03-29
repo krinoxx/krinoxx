@@ -1,27 +1,47 @@
 # Hey, soy Mario 👋
 
-Estudiante de ciberseguridad con base en sysadmin y redes.
-Especialización en seguridad ofensiva y pentesting.
+Técnico de sistemas orientado a la seguridad ofensiva.  
+Grado Superior DAM · SMR · Erasmus Porto 2025  
+Burgos, España → objetivo a largo plazo: red team en Europa
+
+---
 
 ## 🔧 Stack técnico
-- **OS:** Windows Server 2022 · Active Directory · Ubuntu · Kali Linux
-- **Redes:** TCP/IP · DNS · DHCP · SSH · NFS · Samba4
-- **Seguridad:** nmap · Wireshark · Metasploit (básico) · BloodHound
-- **Dev:** Java · Python · Bash · SQL · Git
+
+**Sistemas y redes**
+`Windows Server 2022` `Active Directory` `Samba4` `Ubuntu` `Kali Linux`
+`TCP/IP` `DNS` `DHCP` `SSH` `NFS` `FTP`
+
+**Seguridad ofensiva**
+`nmap` `Wireshark` `Metasploit` `Burp Suite` `BloodHound`
+`Reconocimiento` `Enumeración` `Escalada de privilegios`
+
+**Desarrollo**
+`Java` `Bash` `SQL` `Git`
+
+---
 
 ## 🎯 Ahora mismo
-- 📚 Cursando DAM (Desarrollo de Aplicaciones Multiplataforma)
-- 🔐 Preparando la certificación **eJPT**
-- 🖥️ Construyendo un [AD Home Lab](./ad-lab-setup)
-- 🏆 Activo en TryHackMe y HackTheBox
 
-## 📁 Repos destacados
-| Proyecto | Descripción |
-|----------|-------------|
-| [ad-lab-setup](./ad-lab-setup) | Lab de Active Directory con ataques documentados |
-| [recon-automator](./recon-automator) | Script Python de reconocimiento de red |
-| [dockerlabs-writeups](./dockerlabs-writeups) | Writeups de DockerLabs con metodología detallada |
+- 📚 Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma
+- 🔐 Preparando la certificación **eJPT** (INE Security)
+- 🐳 Resolviendo máquinas en **[DockerLabs](https://dockerlabs.es)** y documentando writeups
+- 🏗️ Construyendo un **[Active Directory Home Lab](https://github.com/krinoxx/ad-lab-setup)** con ataques documentados
+
+---
+
+## 📁 Repositorios
+
+| Repo | Descripción |
+|------|-------------|
+| [ad-lab-setup](https://github.com/krinoxx/ad-lab-setup) | Lab de Active Directory — ataques ofensivos y mitigaciones |
+| [dockerlabs-writeups](https://github.com/krinoxx/dockerlabs-writeups) | Writeups de DockerLabs con metodología detallada |
+| [recon-automator](https://github.com/krinoxx/recon-automator) | Script Bash de automatización de reconocimiento |
+
+---
 
 ## 📬 Contacto
-LinkedIn · TryHackMe · marioperezpedrosa2007@gmail.com
-```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-perez-745a34397)
+[![DockerLabs](https://img.shields.io/badge/DockerLabs-2496ED?style=flat&logo=docker&logoColor=white)](https://dockerlabs.es)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:marioperezpedrosa2007@gmail.com)
