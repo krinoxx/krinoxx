@@ -26,7 +26,6 @@ Burgos, España → objetivo a largo plazo: red team en Europa
 - 📚 Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma
 - 🔐 Preparando la certificación **eJPT** (INE Security)
 - 🐳 Resolviendo máquinas en **[DockerLabs](https://dockerlabs.es)** y documentando writeups
-- 🏗️ Construyendo un **[Active Directory Home Lab](https://github.com/krinoxx/ad-lab-setup)** con ataques documentados
 
 ---
 
