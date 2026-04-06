@@ -25,7 +25,7 @@ Burgos, España → objetivo a largo plazo: red team en Europa
  
 - 📚 Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma
 - 🔐 Preparando la certificación **eJPT** (INE Security)
-- 🐳 Resolviendo máquinas en **DockerLabs · The Hacker Labs · HackTheBox** — 3 writeups publicados
+- 🐳 Resolviendo máquinas CTF con writeups documentados
 - 🏗️ AD Home Lab con 5 ataques documentados: BloodHound · Kerberoasting · PtH · AS-REP · DCSync
  
 ---
@@ -35,7 +35,7 @@ Burgos, España → objetivo a largo plazo: red team en Europa
 | Repo | Descripción |
 |------|-------------|
 | [ad-lab-setup](https://github.com/krinoxx/ad-lab-setup) | Lab de Active Directory — ataques ofensivos y mitigaciones |
-| [ctf-writeups](https://github.com/krinoxx/ctf-writeups) | Writeups de DockerLabs, The Hacker Labs, HackTheBox y más |
+| [ctf-writeups](https://github.com/krinoxx/ctf-writeups) | Writeups de máquinas CTF con metodología detallada |
 | [recon-automator](https://github.com/krinoxx/recon-automator) | Script Bash de automatización de reconocimiento |
  
 ---
