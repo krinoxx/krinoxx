@@ -42,6 +42,6 @@ Burgos, España → objetivo a largo plazo: red team en Europa
  
 ## 📬 Contacto
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-perez-745a34397)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marioperezpedrosa)
 [![DockerLabs](https://img.shields.io/badge/DockerLabs-2496ED?style=flat&logo=docker&logoColor=white)](https://dockerlabs.es)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:marioperezpedrosa2007@gmail.com)
